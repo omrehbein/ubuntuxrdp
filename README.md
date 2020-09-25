@@ -1,4 +1,4 @@
-#Ubuntu 32 bits XRDP Desktop in Docker
+Ubuntu 32 bits XRDP Desktop in Docker
 
 ## take a look
 
