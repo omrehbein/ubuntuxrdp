@@ -10,3 +10,11 @@ and then
 ```bash
 root@ubuntuxrd:/# sh /etc/init.d/personalstartup.sh
 ```
+
+and then
+
+![mstsc](https://github.com/osmar85/ubuntuxrdp/blob/master/mstsclogin.png)
+
+and then 
+
+Enjoy!!
